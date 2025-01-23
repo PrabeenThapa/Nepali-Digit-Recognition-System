@@ -22,21 +22,21 @@ To run this project, make sure you have the following installed:
 - pickle
 
 Install the dependencies using:
-pip install torch torchvision Pillow numpy 
+- pip install torch torchvision Pillow numpy 
 
 ## How It Works
 
 
-Launch the application, which opens a canvas for drawing.
-Use your mouse to draw a digit on the canvas.
-Click the "Submit" button to predict the digit.
-The predicted digit is displayed on the screen.
-You can clear the canvas to redraw or exit the application at any time.
+- Launch the application, which opens a canvas for drawing.
+- Use your mouse to draw a digit on the canvas.
+- Click the "Submit" button to predict the digit.
+- The predicted digit is displayed on the screen.
+- You can clear the canvas to redraw or exit the application at any time.
 
 ## Project Structure
 
-app.py: Main application file. It contains the code for the GUI, digit drawing, and model integration.
-final_model.sav: Pre-trained model used for digit recognition.
+- app.py: Main application file. It contains the code for the GUI, digit drawing, and model integration.
+- final_model.sav: Pre-trained model used for digit recognition.
 
 ## Usage Instructions
 

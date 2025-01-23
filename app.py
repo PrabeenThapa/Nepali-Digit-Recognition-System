@@ -6,7 +6,6 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim.adam
-
 from PIL import Image
 from torchvision.transforms import v2
 
